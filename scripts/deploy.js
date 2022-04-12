@@ -21,3 +21,6 @@ main()
 
 
 // Contract Address: 0x857aC7791eE6379292d8109dbb4594488aF9C726
+
+//To VERIFY ON ETHERSCAN
+// npx hardhat verify --network ropsten 0x857aC7791eE6379292d8109dbb4594488aF9C726 "Hello Bored!"
